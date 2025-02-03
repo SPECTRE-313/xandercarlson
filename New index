@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Light Theme</title>
+<link href="file:///C|/Users/falco/AppData/Roaming/Adobe/Dreamweaver 2021/en_US/Configuration/Temp/Assets/eamFB8B.tmp/css/simpleGridTemplate.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Header -->
+  <header class="header">
+    <h4 class="logo">XANDER CARLSON</h4>
+  </header>
+  <!-- Hero Section -->
+  <section class="intro">
+    <div class="column">
+      <img> </div>
+    <div class="column">
+      <p>Welcome to Xander Carlson's Github site. This site is meant as a hub for learning about who Xander is, the work that he has done so far, and how he can contribute to your workspace. </p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
+    </div>
+  </section>
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="file:///C|/Users/falco/AppData/Roaming/Adobe/Dreamweaver 2021/en_US/Configuration/Temp/Assets/eamFB8B.tmp/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///C|/Users/falco/AppData/Roaming/Adobe/Dreamweaver 2021/en_US/Configuration/Temp/Assets/eamFB8B.tmp/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///C|/Users/falco/AppData/Roaming/Adobe/Dreamweaver 2021/en_US/Configuration/Temp/Assets/eamFB8B.tmp/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///C|/Users/falco/AppData/Roaming/Adobe/Dreamweaver 2021/en_US/Configuration/Temp/Assets/eamFB8B.tmp/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="file:///C|/Users/falco/AppData/Roaming/Adobe/Dreamweaver 2021/en_US/Configuration/Temp/Assets/eamFB8B.tmp/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///C|/Users/falco/AppData/Roaming/Adobe/Dreamweaver 2021/en_US/Configuration/Temp/Assets/eamFB8B.tmp/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///C|/Users/falco/AppData/Roaming/Adobe/Dreamweaver 2021/en_US/Configuration/Temp/Assets/eamFB8B.tmp/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///C|/Users/falco/AppData/Roaming/Adobe/Dreamweaver 2021/en_US/Configuration/Temp/Assets/eamFB8B.tmp/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <!-- Footer Section -->
+  <footer id="contact">
+    <p class="hero_header">GET IN TOUCH WITH ME</p>
+    <div class="button">EMAIL ME </div>
+  </footer>
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2024 - <strong>GRID</strong></div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
